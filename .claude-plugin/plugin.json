@@ -6,8 +6,8 @@
     "name": "shadcn",
     "url": "https://twitter.com/shadcn"
   },
-  "homepage": "https://github.com/shadcn/fable",
-  "repository": "https://github.com/shadcn/fable",
+  "homepage": "https://github.com/shadcn/improve",
+  "repository": "https://github.com/shadcn/improve",
   "license": "MIT",
   "keywords": ["audit", "code-review", "planning", "agents", "tech-debt", "security"]
 }
